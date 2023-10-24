@@ -6,5 +6,4 @@ router.get('/', function(req, res, next) {
   res.render('mydata', { title: 'Shivaram Reddy Palla' });
 });
 
-
 module.exports = router;
